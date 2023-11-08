@@ -1,0 +1,8 @@
+D:\115\дапп\obj\Debug\дапп.csproj.AssemblyReference.cache
+D:\115\дапп\obj\Debug\дапп.csproj.SuggestedBindingRedirects.cache
+D:\115\дапп\obj\Debug\дапп.csproj.CoreCompileInputs.cache
+D:\115\дапп\bin\Debug\дапп.exe.config
+D:\115\дапп\bin\Debug\дапп.exe
+D:\115\дапп\bin\Debug\дапп.pdb
+D:\115\дапп\obj\Debug\дапп.exe
+D:\115\дапп\obj\Debug\дапп.pdb
